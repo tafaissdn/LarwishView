@@ -2,8 +2,24 @@
 "GO": "GO",
 
 "open" :[{
+"img" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"title" : "التكشيتة",
+"arrImg":[
+"https://j.top4top.io/p_2634wilhh3.jpg",
+"https://i.ibb.co/qmRDLDr/a.jpg",
+"https://i.ibb.co/KsLTJk3/c.jpg",
+"https://i.ibb.co/58JRttr/g.jpg",
+"https://i.ibb.co/JkpqCmc/k.jpg",
+"https://i.ibb.co/SK63Rpg/l.jpg",
+"https://i.ibb.co/j45c4Cc/lm.jpg",
+"https://i.ibb.co/b5Nhx84/ln.jpg",
+"https://i.ibb.co/9qBYGYg/n.jpg"]
+},
+{
 "img" : "url",
-"title" : "title"
+"title" : "title",
+"arrImg":["","",""]
 
 }]
 }
+
