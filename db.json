@@ -1,7 +1,10 @@
 {
-"GO": "GO",
+"Story": "جديدنا متوفر ",
+"Main": "موديلا مختلفة",
+"Grid": "تصفح موديلات",
 
-"open" :[{
+
+"openGrid" :[{
 "img" : "https://j.top4top.io/p_2634wilhh3.jpg",
 "title" : "التكشيتة",
 "arrImg":[
@@ -49,7 +52,14 @@
 	  {
 	  "img": "https://e.top4top.io/p_2613el0mk2.jpg",
       "title":  "جبادور رجال",
-      "arrImg":["https://e.top4top.io/p_2613el0mk2.jpg"]
+      "arrImg":["https://e.top4top.io/p_2613el0mk2.jpg"],
+
+"openStory" :[{
+"viewUrl" : ""
+},
+{
+"viewUrl" : ""
+}]
 
 }]
 }
