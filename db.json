@@ -1,18 +1,16 @@
 {
-"open1":[{
-"A1" :"url",
-"A2" : "img",
-"A3arr" :["A3arr","A3arr"]
+"grid":[{
+"A1" :"title",
+"A2" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"A3arr" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
 }],
-"open2":[{
-"B1" : "B1",
-"BB" : "BB",
-"B2arr" :["B2arr","B2arr"]
+"main":[{
+"B1" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"B2arr" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
 }],
-"open3":[{
-"C1": "C1",
-"C2": "C2",
-"C3arr" :["C3arr","C3arr"]
+"dispo":[{
+"C1": "https://j.top4top.io/p_2634wilhh3.jpg",
+"C3arr" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
 }]
 }
  
