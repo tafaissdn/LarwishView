@@ -1,36 +1,25 @@
 {
-
-"open" :[{
-
-"img1" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"title1" : "01التكشيتة",
-"arrImg1":["https://i.ibb.co/b5Nhx84/ln.jpg","https://i.ibb.co/9qBYGYg/n.jpg"],
-
-"img02" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"title02" : " 02التكشيتة",
-"arrImg02":["https://i.ibb.co/b5Nhx84/ln.jpg","https://i.ibb.co/9qBYGYg/n.jpg"],
-
-"img03" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"title03" : "03التكشيتة",
-"arrImg03":["https://i.ibb.co/b5Nhx84/ln.jpg","https://i.ibb.co/9qBYGYg/n.jpg"]
-},
-{
-
-"img1" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"title1" : "01التكشيتة",
-"arrImg1":["https://i.ibb.co/b5Nhx84/ln.jpg","https://i.ibb.co/9qBYGYg/n.jpg"],
-
-"img02" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"title02" : " 02التكشيتة",
-"arrImg02":["https://i.ibb.co/b5Nhx84/ln.jpg","https://i.ibb.co/9qBYGYg/n.jpg"],
-
-"img03" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"title03" : "03التكشيتة",
-"arrImg03":["https://i.ibb.co/b5Nhx84/ln.jpg","https://i.ibb.co/9qBYGYg/n.jpg"]
-
+"open1":[{
+"A1" :"url",
+"A2" : "img",
+"A3arr" :["A3arr","A3arr"]
+}],
+"open2":[{
+"B1" : "B1",
+"BB" : "BB",
+"B2arr" :["B2arr","B2arr"]
+}],
+"open3":[{
+"C1": "C1",
+"C2": "C2",
+"C3arr" :["C3arr","C3arr"]
+}]
 }
-]
-}
+ 
+
+
+
+
 
 
 
