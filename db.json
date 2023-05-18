@@ -1,13 +1,43 @@
 {
 "grid":[{
-"A1" :"title",
-"A2" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"A3arr" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"titleGride" :"التكشيطة",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
 },
 {
-"A1" :"title",
-"A2" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"A3arr" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"titleGride" :"كندورة",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+ },
+{
+"titleGride" :"القفتان",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+
+  },
+{
+"titleGride" :"جبادور نساء",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+
+ },
+{
+"titleGride" :"جلابة نساء",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+ 
+  },
+{
+"titleGride" :"جلابة رجال",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+  },
+{
+"titleGride" :"جبادور رجال",
+"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
+"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+
+
 
 }],
 "main":[{
