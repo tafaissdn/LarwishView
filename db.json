@@ -1,47 +1,58 @@
 {
  "tTitle" : "أحدث الموديلات في فن خياطة الراندة دائما الجديد" ,
  "tGrid" : "خياطة عصرية مغربية  شاهد اجمل الموضه في الملابس المغربية" ,
- "tMain" : "صور خياطة جديدة" ,
- "tDispo" : " منوعات خياط العشاق متوفر بالمحل حاليا Disponible" ,
+ "tMain" : "منوعات خياط العشاق متوفر بالمحل حاليا Disponible" ,
+ "tDispo" : "صور خياطة جديدة خياط العشاق" ,
 "grid":[{
 "titleGride" :"التكشيطة",
 "imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"arrImageGrid" :[ 
+"https://j.top4top.io/p_2634wilhh3.jpg",
+"https://i.ibb.co/qmRDLDr/a.jpg",
+"https://i.ibb.co/KsLTJk3/c.jpg",
+"https://i.ibb.co/58JRttr/g.jpg",
+"https://i.ibb.co/JkpqCmc/k.jpg",
+"https://i.ibb.co/SK63Rpg/l.jpg",
+"https://i.ibb.co/j45c4Cc/lm.jpg",
+"https://i.ibb.co/b5Nhx84/ln.jpg",
+"https://i.ibb.co/9qBYGYg/n.jpg"]
 },
 {
 "titleGride" :"كندورة",
-"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"imageGrid" : "https://h.top4top.io/p_2613uzjk47.jpg",
+"arrImageGrid" :["https://h.top4top.io/p_2613uzjk47.jpg"]
  },
 {
 "titleGride" :"القفتان",
-"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"imageGrid" : "https://h.top4top.io/p_26137wvjs2.jpg",
+"arrImageGrid" :["https://i.ibb.co/f0xGYjV/aa.jpg","https://i.ibb.co/RpN3mQs/bb.jpg","https://i.ibb.co/5sBDgMg/cc.jpg","https://i.ibb.co/m6P8JX6/dd.jpg",
+		"https://i.ibb.co/FgW6NzX/ee.jpg","https://i.ibb.co/JsppBbL/ff.jpg","https://i.ibb.co/BcHKP7T/gg.jpg","https://i.ibb.co/d0TPd9T/hh.jpg",
+	       "https://i.ibb.co/pZZGGC9/kk.jpg"]
 
   },
 {
 "titleGride" :"جبادور نساء",
-"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"imageGrid" : "https://h.top4top.io/p_2634p5jg21.png",
+"arrImageGrid" :["https://h.top4top.io/p_2634p5jg21.png"]
 
  },
 {
 "titleGride" :"جلابة نساء",
-"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"imageGrid" : "https://i.top4top.io/p_2634kzkbu2.jpg",
+"arrImageGrid" :["https://i.top4top.io/p_2634kzkbu2.jpg","https://i.ibb.co/4mhvgS9/bb.jpg","https://i.ibb.co/4j5R8hv/cc.jpg","https://i.ibb.co/BzSxQkn/dd.jpg",
+	       "https://i.ibb.co/0MF5BD1/ee.jpg","https://i.ibb.co/PCYKRFD/ff.jpg","https://i.ibb.co/dgQgbrq/gg.jpg","https://i.ibb.co/B4NXkP4/hh.jpg",
+		"https://i.ibb.co/b3ZZp2N/ll.jpg","https://i.ibb.co/DgX3DH3/qq.jpg"]
  
   },
 {
 "titleGride" :"جلابة رجال",
-"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
+"imageGrid" : "https://l.top4top.io/p_26135cwzt1.jpg",
+"arrImageGrid" :["https://l.top4top.io/p_26135cwzt1.jpg"]
   },
 {
 "titleGride" :"جبادور رجال",
-"imageGrid" : "https://j.top4top.io/p_2634wilhh3.jpg",
-"arrImageGrid" :["https://j.top4top.io/p_2634wilhh3.jpg","https://j.top4top.io/p_2634wilhh3.jpg"]
-
-
+"imageGrid" : "https://e.top4top.io/p_2613el0mk2.jpg",
+"arrImageGrid" :["https://e.top4top.io/p_2613el0mk2.jpg"]
 
 }],
 "main":[{
